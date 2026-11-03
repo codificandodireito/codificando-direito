@@ -18,7 +18,7 @@
    obra: título do documento ou da página oficial
    cidade e editora (sigla da entidade), ano
    ========================================================= */
-window.ATUALIZADO = "2026-11-01";
+window.ATUALIZADO = "2026-11-03";
 
 window.OPORTUNIDADES = [
   { titulo: "Especialização em Projetos de Empreendedorismo e Inovação para Educadores",

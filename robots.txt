@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codificandodireito.netlify.app/sitemap.xml

@@ -18,7 +18,7 @@
    obra: título do documento ou da página oficial
    cidade e editora (sigla da entidade), ano
    ========================================================= */
-window.ATUALIZADO = "2026-11-03";
+window.ATUALIZADO = "2026-11-05";
 
 window.OPORTUNIDADES = [
   { titulo: "Especialização em Projetos de Empreendedorismo e Inovação para Educadores",
@@ -28,6 +28,14 @@ window.OPORTUNIDADES = [
     prazo: "2026-11-06", link: "https://fagen.ufu.br/unidades/especializacao/projetos-de-empreendedorismo-e-inovacao-para-educadores",
     autor: "UNIVERSIDADE FEDERAL DE UBERLÂNDIA. Faculdade de Gestão e Negócios",
     obra: "Especialização em Projetos de Empreendedorismo e Inovação para Educadores", cidade: "Uberlândia", editora: "UFU", ano: "2026" },
+
+  { titulo: "Técnico em Administração a distância (concomitante e subsequente)",
+    instituicao: "Instituto Federal de Educação, Ciência e Tecnologia Goiano (IF Goiano)", tipo: "Técnico",
+    modalidade: "A distância", local: "Campus Ipameri, GO", duracao: "1.050 h, em 3 semestres", vagas: "100",
+    publico: "Quem concluiu ou está no 3º ano do ensino médio. Sem taxa e sem prova: seleção por sorteio em 19 nov. 2026. Pode haver estágio e visitas técnicas ligados ao campus de Ipameri.",
+    prazo: "2026-11-12", link: "https://ps.ifgoiano.edu.br/edital/visualizar/717/",
+    autor: "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA GOIANO",
+    obra: "Edital nº 12, de 28 de outubro de 2026: processo seletivo Técnico em Administração EaD: Campus Ipameri", cidade: "Ipameri", editora: "IF Goiano", ano: "2026" },
 
   { titulo: "Cursos técnicos subsequentes a distância (24 cursos)",
     instituicao: "Instituto Federal de Educação, Ciência e Tecnologia de Rondônia (IFRO)", tipo: "Técnico",

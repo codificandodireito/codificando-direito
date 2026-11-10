@@ -18,17 +18,9 @@
    obra: título do documento ou da página oficial
    cidade e editora (sigla da entidade), ano
    ========================================================= */
-window.ATUALIZADO = "2026-11-05";
+window.ATUALIZADO = "2026-11-09";
 
 window.OPORTUNIDADES = [
-  { titulo: "Especialização em Projetos de Empreendedorismo e Inovação para Educadores",
-    instituicao: "Universidade Federal de Uberlândia (UFU)", tipo: "Pós-graduação",
-    modalidade: "A distância", local: "Todo o Brasil", duracao: "360 h, em 18 meses", vagas: "150",
-    publico: "Professores e profissionais da educação, preferencialmente da rede pública.",
-    prazo: "2026-11-06", link: "https://fagen.ufu.br/unidades/especializacao/projetos-de-empreendedorismo-e-inovacao-para-educadores",
-    autor: "UNIVERSIDADE FEDERAL DE UBERLÂNDIA. Faculdade de Gestão e Negócios",
-    obra: "Especialização em Projetos de Empreendedorismo e Inovação para Educadores", cidade: "Uberlândia", editora: "UFU", ano: "2026" },
-
   { titulo: "Técnico em Administração a distância (concomitante e subsequente)",
     instituicao: "Instituto Federal de Educação, Ciência e Tecnologia Goiano (IF Goiano)", tipo: "Técnico",
     modalidade: "A distância", local: "Campus Ipameri, GO", duracao: "1.050 h, em 3 semestres", vagas: "100",

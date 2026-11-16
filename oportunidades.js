@@ -18,17 +18,9 @@
    obra: título do documento ou da página oficial
    cidade e editora (sigla da entidade), ano
    ========================================================= */
-window.ATUALIZADO = "2026-11-09";
+window.ATUALIZADO = "2026-11-16";
 
 window.OPORTUNIDADES = [
-  { titulo: "Técnico em Administração a distância (concomitante e subsequente)",
-    instituicao: "Instituto Federal de Educação, Ciência e Tecnologia Goiano (IF Goiano)", tipo: "Técnico",
-    modalidade: "A distância", local: "Campus Ipameri, GO", duracao: "1.050 h, em 3 semestres", vagas: "100",
-    publico: "Quem concluiu ou está no 3º ano do ensino médio. Sem taxa e sem prova: seleção por sorteio em 19 nov. 2026. Pode haver estágio e visitas técnicas ligados ao campus de Ipameri.",
-    prazo: "2026-11-12", link: "https://ps.ifgoiano.edu.br/edital/visualizar/717/",
-    autor: "INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA GOIANO",
-    obra: "Edital nº 12, de 28 de outubro de 2026: processo seletivo Técnico em Administração EaD: Campus Ipameri", cidade: "Ipameri", editora: "IF Goiano", ano: "2026" },
-
   { titulo: "Cursos técnicos subsequentes a distância (24 cursos)",
     instituicao: "Instituto Federal de Educação, Ciência e Tecnologia de Rondônia (IFRO)", tipo: "Técnico",
     modalidade: "A distância", local: "Polos do IFRO em Rondônia", vagas: "500, distribuídas em 30 cursos",
